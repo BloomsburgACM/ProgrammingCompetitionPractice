@@ -1,3 +1,5 @@
+package PACISE_2015;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -23,7 +25,7 @@ Karen
 Steve
 x
  */
-public class BinarySearchTree {
+public class ProblemC {
 	public static void main(String[] args) {
 		DecimalFormat df = new DecimalFormat("#.####");
 		
