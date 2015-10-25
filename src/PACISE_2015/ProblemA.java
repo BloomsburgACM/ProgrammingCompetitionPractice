@@ -86,6 +86,7 @@ public class ProblemA
     }
     
 }
+/*
  surface blue white yellow
  shallow blue silver red
  medlum blue white
